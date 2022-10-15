@@ -1,1 +1,1 @@
-# # <h1 align="center">⚙ •SNAPSHOTS •ADDRBOOK •PEER •STATESYNC </h1>
+## <h1 align="center">⚙ •SNAPSHOTS •ADDRBOOK •PEER •STATESYNC </h1>
